@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
@@ -119,3 +120,6 @@ You are required to submit the following for review:
 
 ---
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+# bootcamp_challenge01
+>>>>>>> 6f56bf71ca1dda1dee92dd9e852129610b108478
